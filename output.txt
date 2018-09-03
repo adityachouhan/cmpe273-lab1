@@ -1,0 +1,6 @@
+output 1 :
+Mon, 03 Sep 2018 03:21:20 GMT
+Mon, 03 Sep 2018 03:21:20 GMT
+Mon, 03 Sep 2018 03:21:21 GMT
+output 2 :
+[<Response [200]>, <Response [200]>, <Response [200]>]
